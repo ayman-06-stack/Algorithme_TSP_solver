@@ -156,18 +156,7 @@ tsp-solver/
 ├── README.md             # Documentation
 ├── LICENSE               # Licence MIT
 ├── .gitignore           # Fichiers à ignorer
-│
-├── examples/            # Exemples d'utilisation
-│   ├── basic_example.py
-│   └── custom_cities.py
-│
-├── tests/               # Tests unitaires
-│   ├── test_tsp.py
-│   └── __init__.py
-│
-└── docs/               # Documentation supplémentaire
-    ├── algorithm.md
-    └── performance.md
+
 ```
 
 ## 🧪 Tests
